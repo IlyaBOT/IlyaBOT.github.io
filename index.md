@@ -3,4 +3,4 @@ title: Hello
 layout: default
 ---
  
-Hello world!
+#Welcome, to the Las Pegasus Website!
