@@ -55,7 +55,7 @@ social-network-links:
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-  steam: https://steamcommunity.com/groups/LasPegasusCommunity
+  steam: /groups/LasPegasusCommunity
 #  twitch: yourname
 #  yelp: yourname
 #  telegram: yourname
@@ -63,7 +63,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-  discord: https://discord.com/invite/N4vJsHXP
+  discord: invite/N4vJsHXP
 #  kaggle: yourname
 
 # If you want your website to generate an RSS feed, provide a description
