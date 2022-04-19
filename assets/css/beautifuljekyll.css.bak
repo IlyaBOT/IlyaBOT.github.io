@@ -190,7 +190,7 @@ img {
 
 .navbar-custom .navbar-brand,
 .navbar-custom .navbar-nav .nav-link {
-  font-weight: 1200;
+  font-weight: 800;
   color: {{ site.navbar-text-col | default: "#404040" }};
 }
 
@@ -348,7 +348,7 @@ img {
 
 @media (min-width: 1200px) {
   .navbar-custom.top-nav-regular .avatar-container {
-    width: 5.90rem;
+    width: 5rem;
   }
 
   .navbar-custom.top-nav-regular .avatar-container .avatar-img-border {
