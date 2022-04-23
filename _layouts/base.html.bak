@@ -38,6 +38,19 @@ common-js:
   {% include nav.html %}
 
   {{ content }}
+  
+  <div class="slider-wrapper">
+		<div class="slider">
+			<div class="slider--item" style="background-image: url(https://i.imgur.com/f4gi3Xa.jpg)">
+			</div>
+			<div class="slider--item" style="background-image: url(https://i.imgur.com/uuwMgg9.gif)">
+			</div>
+			<div class="slider--item" style="background-image: url(http://deghq.com/yapp/front-labs/codepen-assets/slide-5.jpg)">
+			</div>
+			<div class="slider--item" style="background-image: url(http://deghq.com/yapp/front-labs/codepen-assets/slide-1.jpg)">
+			</div>
+		</div>
+	</div>
 
   {% include footer.html %}
 
