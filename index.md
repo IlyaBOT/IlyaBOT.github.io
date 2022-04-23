@@ -1,6 +1,7 @@
 ---
 title: Las Pegasus
 layout: default
+css: "/assets/css/index.css"
 
 cover-img:
   - "/img/big-imgs/las_pegasus (1).jpg" : "Las Pegasus"
@@ -11,7 +12,21 @@ cover-img:
   - "/img/big-imgs/las_pegasus (6).jpg" : "Las Pegasus"
   - "/img/big-imgs/las_pegasus (7).jpg" : "Las Pegasus"
 ---
- 
+
+{%- capture thumbnail -%}
+      {% if post.thumbnail-img %}
+        {{ post.thumbnail-img }}
+      {% elsif post.cover-img %}
+        {% if post.cover-img.first %}
+          {{ post.cover-img[0].first.first }}
+        {% else %}
+          {{ post.cover-img }}
+        {% endif %}
+      {% else %}
+      {% endif %}
+    {% endcapture %}
+    {% assign thumbnail=thumbnail | strip %}
+
 # <center>Добро пожаловать на сайт проекта Las Pegasus!</center>
 ## <center>IP Адресс сервера: 95.84.136.207:27015</center>
 
