@@ -2,17 +2,8 @@
 title: Las Pegasus
 layout: default
 
-images:
-  - "/img/big-imgs/las_pegasus (1).jpg" : "Las Pegasus"
-  - "/img/big-imgs/las_pegasus (2).jpg" : "Las Pegasus"
-  - "/img/big-imgs/las_pegasus (3).jpg" : "Las Pegasus"
-  - "/img/big-imgs/las_pegasus (4).jpg" : "Las Pegasus"
-  - "/img/big-imgs/las_pegasus (5).jpg" : "Las Pegasus"
-  - "/img/big-imgs/las_pegasus (6).jpg" : "Las Pegasus"
-  - "/img/big-imgs/las_pegasus (7).jpg" : "Las Pegasus"
+cover-img: "/assets/img/big-imgs/las_pegasus (1).jpg"
 ---
-
-[video link](https://youtu.be/iWowJBRMtpc?t=90s)
 
 # <center>Добро пожаловать на сайт проекта Las Pegasus!</center>
 ## <center>IP Адрес сервера: 95.84.136.207:27015</center>
