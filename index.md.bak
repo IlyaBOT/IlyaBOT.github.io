@@ -11,7 +11,9 @@ images:
   - "/img/big-imgs/las_pegasus (6).jpg" : "Las Pegasus"
   - "/img/big-imgs/las_pegasus (7).jpg" : "Las Pegasus"
 ---
- 
+
+[video link](https://youtu.be/iWowJBRMtpc?t=90s){:.no-lightbox}
+
 # <center>Добро пожаловать на сайт проекта Las Pegasus!</center>
 ## <center>IP Адрес сервера: 95.84.136.207:27015</center>
 
