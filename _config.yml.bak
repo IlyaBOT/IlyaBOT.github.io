@@ -39,17 +39,9 @@ feed_show_tags: false
 
 keywords: "r shiny,r shiny developer,shiny developer,shiny apps,shiny consultant,dashboards r,interactive dashboards"
 
-navbar-col: "#7200FF"
-navbar-text-col: "#FFFFFF"
-navbar-border-col: "#DDDDDD"
-page-col: "#222222"
-text-col: "#FFFFFF"
-link-col: "#9F52FF"
-hover-col: "#E0C8FF"
-footer-col: "#222222"
-footer-text-col: "#888888"
-footer-link-col: "#9F52FF"
-footer-hover-col: "#7200FF"
+link-col: "#404040"
+
+mobile-theme-col: "#0085A1"
 
 site-css: "/assets/css/custom-styles.css"
 site-js: "/assets/js/custom-script.js"
@@ -58,6 +50,10 @@ timezone: "America/Toronto"
 permalink: /blog/:title/
 paginate: 10
 paginate_path: "/page:num/"
+
+disqus: "deanattali-site"
+google_analytics: "UA-59820529-1"
+fb_app_id: "536330676521989"
 
 url-pretty: "❤ Support"
 url-canonical: https://github.com/sponsors/daattali
