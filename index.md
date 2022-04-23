@@ -13,7 +13,7 @@ bigimg:
 ---
  
 # <center>Добро пожаловать на сайт проекта Las Pegasus!</center>
-## <center>IP Адресс сервера: 95.84.136.207:27015</center>
+## <center>IP Адрес сервера: 95.84.136.207:27015</center>
 
 ### О проекте Las Pegasus
 ><span style="color:white">Ну, тут типа о проекте, но пока не написано.</span>
