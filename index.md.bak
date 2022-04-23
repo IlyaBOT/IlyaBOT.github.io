@@ -2,7 +2,7 @@
 title: Las Pegasus
 layout: default
 
-bigimg:
+images:
   - "/img/big-imgs/las_pegasus (1).jpg" : "Las Pegasus"
   - "/img/big-imgs/las_pegasus (2).jpg" : "Las Pegasus"
   - "/img/big-imgs/las_pegasus (3).jpg" : "Las Pegasus"
