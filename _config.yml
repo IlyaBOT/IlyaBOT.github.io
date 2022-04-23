@@ -14,7 +14,8 @@ author: Las Pegasus Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-   Steam Group: https://steamcommunity.com/groups/LasPegasusCommunity
+    PLAY: steam://connect/95.84.136.207:27015
+    Steam Group: https://steamcommunity.com/groups/LasPegasusCommunity
   #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"

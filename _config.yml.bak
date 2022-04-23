@@ -14,7 +14,8 @@ author: Las Pegasus Team
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-   Steam Group: https://steamcommunity.com/groups/LasPegasusCommunity
+    PLAY: steam://connect/95.84.136.207:27015
+    Steam Group: https://steamcommunity.com/groups/LasPegasusCommunity
   #About Me: "aboutme"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -77,7 +78,7 @@ rss-description: This website is a virtual proof that I'm awesome
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: true
 
 # How to display the link to your website in the footer
