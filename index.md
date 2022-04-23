@@ -3,13 +3,13 @@ title: Las Pegasus
 layout: default
 
 cover-img:
-  - "/img/big-imgs/las_pegasus (1).jpg" : "Las Pegasus"
-  - "/img/big-imgs/las_pegasus (2).jpg" : "Las Pegasus"
-  - "/img/big-imgs/las_pegasus (3).jpg" : "Las Pegasus"
-  - "/img/big-imgs/las_pegasus (4).jpg" : "Las Pegasus"
-  - "/img/big-imgs/las_pegasus (5).jpg" : "Las Pegasus"
-  - "/img/big-imgs/las_pegasus (6).jpg" : "Las Pegasus"
-  - "/img/big-imgs/las_pegasus (7).jpg" : "Las Pegasus"
+  - "assets/img/big-imgs/las_pegasus (1).jpg" : "Las Pegasus"
+  - "assets/img/big-imgs/las_pegasus (2).jpg" : "Las Pegasus"
+  - "assets/img/big-imgs/las_pegasus (3).jpg" : "Las Pegasus"
+  - "assets/img/big-imgs/las_pegasus (4).jpg" : "Las Pegasus"
+  - "assets/img/big-imgs/las_pegasus (5).jpg" : "Las Pegasus"
+  - "assets/img/big-imgs/las_pegasus (6).jpg" : "Las Pegasus"
+  - "assets/img/big-imgs/las_pegasus (7).jpg" : "Las Pegasus"
 ---
  
 # <center>Добро пожаловать на сайт проекта Las Pegasus!</center>
