@@ -1,7 +1,6 @@
 ---
 title: Las Pegasus
 layout: default
-meta-title: Добро пожаловать на сайт проекта Las Pegasus!
 
 bigimg:
   - "/img/big-imgs/Arizona_2017a.jpg" : "Arizona, 2017"
@@ -15,7 +14,8 @@ bigimg:
   - "/img/big-imgs/Iqaluit_Sunset_2016.jpg" : "Iqaluit, Nunavut, 2016"
   - "/img/big-imgs/SylviaGrinnell_2016.jpg" : "Sylvia Grinnell, Nunavut, 2016"
 ---
-
+ 
+# <center>Добро пожаловать на сайт проекта Las Pegasus!</center>
 ## <center>IP Адресс сервера: 95.84.136.207:27015</center>
 
 ### О проекте Las Pegasus

@@ -1,9 +1,21 @@
 ---
 title: Las Pegasus
 layout: default
+meta-title: Добро пожаловать на сайт проекта Las Pegasus!
+
+bigimg:
+  - "/img/big-imgs/Arizona_2017a.jpg" : "Arizona, 2017"
+  - "/img/big-imgs/Arizona_2017b.jpg" : "Arizona, 2017"
+  - "/img/big-imgs/MuskegSunset17.JPG" : "Winter Sunset, Muskeg, 2017"
+  - "/img/big-imgs/Vancouver2.jpg" : "Vancouver Island, 2016"
+  - "/img/big-imgs/Vancouver1.jpg" : "Vancouver Island, 2016"
+  - "/img/big-imgs/RickersCurve.jpg" : "Ricker's Curve, Nanaimo, BC, 2016"
+  - "/img/big-imgs/ArcticChar.jpg" : "Arctic Char, 2016"
+  - "/img/big-imgs/Iqaluit_2016.jpg" : "Iqaluit, Nunavut, 2016"
+  - "/img/big-imgs/Iqaluit_Sunset_2016.jpg" : "Iqaluit, Nunavut, 2016"
+  - "/img/big-imgs/SylviaGrinnell_2016.jpg" : "Sylvia Grinnell, Nunavut, 2016"
 ---
- 
-# <center>Добро пожаловать на сайт проекта Las Pegasus!</center>
+
 ## <center>IP Адресс сервера: 95.84.136.207:27015</center>
 
 ### О проекте Las Pegasus
