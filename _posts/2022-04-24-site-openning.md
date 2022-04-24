@@ -3,7 +3,6 @@ title: "Site opening"
 subtitle: "Hello, Guys!"
 thumbnail-img: "/assets/img/blog/site-openning/cover.png"
 tags: [news]
-permalink: /blog/2022-04-24-site-openning/
 date: 2022-04-24 15:00:00 -0500
 ---
 # Hello, Bronies!
