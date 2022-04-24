@@ -2,7 +2,7 @@
 title: "Site opening"
 subtitle: "Hello, Guys!"
 thumbnail-img: "/assets/img/blog/site-openning/cover.png"
-tags: [news]
+tags: [News]
 comments: true
 ---
 
