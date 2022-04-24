@@ -3,9 +3,6 @@ layout: page
 title: "Project news"
 css: "/assets/css/index.css"
 share-img: /assets/img/laspimg.png
-share-title: "Dean Attali - R-Shiny consultant | Popular posts"
-share-description: "List of all the most popular posts by Dean Attali."
-support_promo_box: true
 cover-img:
   - "/assets/img/big-imgs/las_pegasus_1.jpg" : "Las Pegasus (C&Box: Beta)"
   - "/assets/img/big-imgs/las_pegasus_2.jpg" : "Las Pegasus (C&Box: Beta)"
@@ -18,9 +15,10 @@ cover-img:
 
 <div class="list-filters">
   <a href="/" class="list-filter">All posts</a>
-  <a href="/popular" class="list-filter filter-selected">Most Popular</a>
-  <a href="/tutorials" class="list-filter">Tutorials</a>
-  <a href="/tags" class="list-filter">Index</a>
+  <a href="/news" class="list-filter filter-selected">News</a>
+  <!-- Отключил лишние фильтры за временной ненадобностью-->
+  <!-- <a href="/tutorials" class="list-filter">Tutorials</a>
+  <a href="/tags" class="list-filter">Index</a> -->
 </div>
 
 {% assign posts = paginator.posts | default: site.posts %}
