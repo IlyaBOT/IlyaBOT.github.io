@@ -69,7 +69,7 @@ permalink: /:year-:month-:day-:title/
 paginate: 5
 paginate_path: "/page:num/"
 
-disqus: "laspegasus"
+#disqus: "laspegasus"
 #google_analytics: "UA-59820529-1"
 #fb_app_id: "536330676521989"
 
