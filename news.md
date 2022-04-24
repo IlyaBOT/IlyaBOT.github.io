@@ -24,7 +24,7 @@ cover-img:
 {% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
-  {% for post in site.tags.popular %}
+  {% for post in site.tags.news %}
   <article class="post-preview">
 
     {%- capture thumbnail -%}
