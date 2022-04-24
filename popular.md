@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "Hi, I'm Dean"
-subtitle: R-Shiny Expert / Open-Source Developer / Tireless Traveller
+title: "Project news"
 css: "/assets/css/index.css"
 share-img: /assets/img/laspimg.png
 share-title: "Dean Attali - R-Shiny consultant | Popular posts"

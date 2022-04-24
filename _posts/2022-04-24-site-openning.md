@@ -2,7 +2,7 @@
 title: "Site opening"
 subtitle: "Hello, Guys!"
 thumbnail-img: "/assets/img/blog/site-openning/cover.png"
-tags: [rstats, github actions, tutorial, youtube]
+tags: [news]
 permalink: /blog/site-openning/
 date: 2022-04-24 15:00:00 -0500
 ---
