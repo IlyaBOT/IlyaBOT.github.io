@@ -5,38 +5,46 @@ plugins:
   - jekyll-sitemap
 
 title: Las Pegasus Team
-author: IlyaBOT, Ponfertato, Dean Attali
+author: IlyaBOT, Ponfertato, SuperNyanCat
 
 
 navbar-links:
-  Blog: "/"
-  Hire me: "https://attalitech.com/"
-  Projects: "projects"
-  About Me / Contact: "aboutme"
+  PLAY: 
+  Steam Group: https://steamcommunity.com/groups/LasPegasusCommunity
+  Discord Server: 
 
 avatar: "/assets/img/laspimg.png"
+round-avatar: false
 
 social-network-links:
-  email: "daattali@gmail.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  linkedin: "pub/dean-attali/8/946/143"
-  stackoverflow: "users/3943160/daattali"
-  calendly: "attalitech/meeting"
-  youtube: "c/daattali?sub_confirmation=1"
-  patreon: DeanAttali
+  #email: "someone@example.com"
+  #rss: true
+  #facebook: deanattali
+  #github: IlyaBOT
+  #twitter: daattali
+  #patreon: DeanAttali
+  #youtube: c/daattali
+#  reddit: yourname
+#  stackoverflow: "3943160/daattali"
+#  spotify: yourname
+#  telephone: +14159998888
+  steam: LasPegasusCommunity
+#  twitch: yourname
+#  telegram: yourname
+#  google-scholar: your google scholar
+  discord: invite/fgpehrfu
 
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  #linkedin: false
+  vk: true
 
 excerpt_length: 50
 feed_show_excerpt: false
 feed_show_tags: false
 
-keywords: "r shiny,r shiny developer,shiny developer,shiny apps,shiny consultant,dashboards r,interactive dashboards"
+keywords: "MLP, GMod, My Little Pony, Bronies, Garry's, Mod, Valve, Source, Construct, Cinema"
 
 navbar-col: "#7200FF"
 navbar-text-col: "#FFFFFF"
@@ -50,13 +58,13 @@ footer-text-col: "#888888"
 footer-link-col: "#9F52FF"
 footer-hover-col: "#7200FF"
 
-mobile-theme-col: "#0085A1"
+#mobile-theme-col: "#0085A1"
 
 site-css: "/assets/css/custom-styles.css"
 site-js: "/assets/js/custom-script.js"
 
-timezone: "America/Toronto"
-permalink: /blog/:title/
+timezone: "Russia/Moscow"
+permalink: /:year-:month-:day-:title/
 paginate: 10
 paginate_path: "/page:num/"
 
