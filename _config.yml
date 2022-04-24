@@ -66,12 +66,12 @@ site-js: "/assets/js/custom-script.js"
 
 timezone: "Russia/Moscow"
 permalink: /:year-:month-:day-:title/
-paginate: 10
+paginate: 5
 paginate_path: "/page:num/"
 
 disqus: "laspegasus"
-google_analytics: "UA-59820529-1"
-fb_app_id: "536330676521989"
+#google_analytics: "UA-59820529-1"
+#fb_app_id: "536330676521989"
 
 url-canonical: https://github.com/sponsors/daattali
 
