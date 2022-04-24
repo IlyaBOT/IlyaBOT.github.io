@@ -618,7 +618,7 @@ footer .footer-custom-content {
   position: relative;
 }
 .container, .container-lg, .container-md, .container-sm, .container-xl {
-  max-width: 1800px;
+  max-width: 2000px;
 }
 .intro-header.big-img {
   background: no-repeat center center;
