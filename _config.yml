@@ -7,7 +7,6 @@ plugins:
 title: Las Pegasus Team
 author: IlyaBOT, Ponfertato, SuperNyanCat
 
-
 navbar-links:
   PLAY: steam://connect/95.84.136.207:27015
   Rules: /rules/
@@ -25,14 +24,14 @@ social-network-links:
   #twitter: daattali
   #patreon: DeanAttali
   #youtube: c/daattali
-#  reddit: yourname
-#  stackoverflow: "3943160/daattali"
-#  spotify: yourname
-#  telephone: +14159998888
+  #  reddit: yourname
+  #  stackoverflow: "3943160/daattali"
+  #  spotify: yourname
+  #  telephone: +14159998888
   steam: LasPegasusCommunity
-#  twitch: yourname
-#  telegram: yourname
-#  google-scholar: your google scholar
+  #  twitch: yourname
+  #  telegram: yourname
+  #  google-scholar: your google scholar
   discord: invite/fgpehrfu
 
 share-links-active:
@@ -73,11 +72,10 @@ disqus: "laspegasus"
 #google_analytics: "UA-59820529-1"
 #fb_app_id: "536330676521989"
 
-url-canonical: https://github.com/sponsors/daattali
+#url-canonical: https://github.com/sponsors/daattali
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
@@ -89,8 +87,7 @@ defaults:
       show-subscribe: true
       support_promo_box: true
       after-content: [share-section.html, scroll-box.html]
-  -
-    scope:
+  - scope:
       path: "notblog"
     values:
       layout: "post"
@@ -101,14 +98,12 @@ defaults:
       show-subscribe: true
       support_promo_box: true
       after-content: [share-section.html, scroll-box.html]
-  -
-    scope:
+  - scope:
       path: "pages"
     values:
       layout: "page"
       comments: true
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: "page"
@@ -124,5 +119,4 @@ exclude:
   - README.md
   - docs/
   - files/java/Scrabble/*
-
 # 2fc73a3a967e97599c9763d05e564189d5
