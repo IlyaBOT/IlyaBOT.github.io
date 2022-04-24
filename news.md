@@ -4,13 +4,13 @@ title: "Project news"
 css: "/assets/css/index.css"
 share-img: /assets/img/laspimg.png
 cover-img:
-  - "/assets/img/big-imgs/las_pegasus_1.jpg" : "Las Pegasus (C&Box: Beta)"
-  - "/assets/img/big-imgs/las_pegasus_2.jpg" : "Las Pegasus (C&Box: Beta)"
-  - "/assets/img/big-imgs/las_pegasus_3.jpg" : "Las Pegasus (C&Box: Beta)"
-  - "/assets/img/big-imgs/las_pegasus_4.jpg" : "Las Pegasus (C&Box: Beta)"
-  - "/assets/img/big-imgs/las_pegasus_5.jpg" : "Las Pegasus (C&Box: Beta)"
-  - "/assets/img/big-imgs/las_pegasus_6.jpg" : "Las Pegasus (C&Box: Beta)"
-  - "/assets/img/big-imgs/las_pegasus_7.jpg" : "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_1.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_2.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_3.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_4.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_5.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_6.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_7.jpg": "Las Pegasus (C&Box: Beta)"
 ---
 
 <div class="list-filters">
@@ -107,6 +107,7 @@ cover-img:
 </div>
 
 {% if paginator.total_pages > 1 %}
+
 <ul class="pagination main-pager">
   {% if paginator.previous_page %}
   <li class="page-item previous">
