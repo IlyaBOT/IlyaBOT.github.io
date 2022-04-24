@@ -618,7 +618,7 @@ footer .footer-custom-content {
   position: relative;
 }
 .container, .container-lg, .container-md, .container-sm, .container-xl {
-  max-width: 1500px;
+  max-width: 1800px;
 }
 .intro-header.big-img {
   background: no-repeat center center;
@@ -720,7 +720,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
     padding: 9.375rem 0;
   }
   .intro-header .page-heading h1 {
-    font-size: 5rem;
+    font-size: 6rem;
   }
   .intro-header .post-heading h1 {
     font-size: 3.125rem;
