@@ -1,10 +1,8 @@
 ---
-layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: "Site opening"
+subtitle: "Hello, Guys!"
+thumbnail-img: "/assets/img/blog/site-openning/cover.png"
+tags: [news]
 comments: true
 ---
 
