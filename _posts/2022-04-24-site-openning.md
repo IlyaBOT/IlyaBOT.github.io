@@ -2,7 +2,6 @@
 title: "Site opening"
 subtitle: "Hello, Bronies!"
 thumbnail-img: "/assets/img/blog/site-openning/cover.png"
-tags: [News]
 comments: true
 ---
 
