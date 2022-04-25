@@ -47,7 +47,7 @@ feed_show_tags: false
 
 keywords: "MLP, GMod, My Little Pony, Bronies, Garry's, Mod, Valve, Source, Construct, Cinema"
 
-navbar-col: "#7200FF"
+navbar-col: "#8461AD"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#DDDDDD"
 page-col: "#222222"
@@ -57,7 +57,7 @@ hover-col: "#E0C8FF"
 footer-col: "#222222"
 footer-text-col: "#888888"
 footer-link-col: "#9F52FF"
-footer-hover-col: "#7200FF"
+footer-hover-col: "#8461AD"
 
 #mobile-theme-col: "#0085A1"
 
