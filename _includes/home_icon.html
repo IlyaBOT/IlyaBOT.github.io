@@ -1,7 +1,7 @@
 <div class="home_icon hidden md:block">
     <a class="flex items-center hover:opacity-70 transition duration-300 ease-in-out" href="{{ site.baseurl }}">
       {% if site.home_icon.home_icon_desktop_image %}
-      <img class="mr-2" height="{{ site.home_icon.home_icon_desktop_height }}" width="{{ site.home_icon.home_icon_desktop_width }}"
+      <img class="navbar-brand" height="{{ site.home_icon.home_icon_desktop_height }}" width="{{ site.home_icon.home_icon_desktop_width }}"
         alt="{{ site.title }} home_icon" src="{{ site.home_icon.home_icon_desktop_image | relative_url }}" />
       {% endif %}
       {% if site.home_icon.home_icon_desktop_text %}
