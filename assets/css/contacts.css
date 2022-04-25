@@ -62,6 +62,7 @@
 
 .our-team .title {
   display: block;
+  font-size: 14px;
   text-shadow: 0 -1px 4px #000000, 0 -1px 4px #000000, 0 1px 4px #000000, 0 1px 4px #000000, -1px 0 4px #000000, 1px 0 4px #000000, -1px 0 4px #000000, 1px 0 4px #000000, -1px -1px 4px #000000, 1px -1px 4px #000000, -1px 1px 4px #000000, 1px 1px 4px #000000, -1px -1px 4px #000000, 1px -1px 4px #000000, -1px 1px 4px #000000, 1px 1px 4px #000000;
   font-weight: 800;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -71,7 +72,6 @@
 
 .our-team .name {
   display: block;
-  font-size: 14px;
   font-weight: 800;
   text-shadow: 0 -1px 4px #000000, 0 -1px 4px #000000, 0 1px 4px #000000, 0 1px 4px #000000, -1px 0 4px #000000, 1px 0 4px #000000, -1px 0 4px #000000, 1px 0 4px #000000, -1px -1px 4px #000000, 1px -1px 4px #000000, -1px 1px 4px #000000, 1px 1px 4px #000000, -1px -1px 4px #000000, 1px -1px 4px #000000, -1px 1px 4px #000000, 1px 1px 4px #000000;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
