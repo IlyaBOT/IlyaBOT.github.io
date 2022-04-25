@@ -371,7 +371,7 @@ img {
 footer {
   padding: 1.875rem 0;
   border-top: 1px #EAEAEA solid;
-  margin-top: 3.125rem;
+  margin-top: 1.5rem; /* Уменьшил отпступ */
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
   {% if site.footer-img %}
@@ -416,7 +416,7 @@ footer .footer-custom-content {
 
 @media (min-width: 768px) {
   footer {
-    padding: 1.5rem 0; /* Уменьшил отступы */
+    /*padding: 3.125rem 0;*/ /* Убрал отступы */
   }
   footer .footer-links {
     font-size: 1.125rem;
