@@ -28,7 +28,7 @@ cover-img:
 > <span style="color:white">At the moment, the server is stabilizing, new functions are gradually being introduced (for further development of the C&Box mode) and the C&Box mode itself is being developed, so what is it? <br>In short: this is a modular game mode, which is based on the functionality for other game modes (an example of this is the server **[Las Pegasus] | Brony Server | [Beta]** located at `95.84.136.207:27015`), SandBox and Cinema mode is used in this mode ([by FarukGamer](https://github.com/FarukGamer/cinema)) and both of these modes work separately from each other! In the future, a simpler module will be implemented, which will allow all changes to be uploaded on the fly from the server side to the client side... Just give us a little time :)
 > </span>
 
-### Contacts
+### Our team
 <div class="container">
       <div class="row">
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
