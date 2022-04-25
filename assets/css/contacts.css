@@ -1,5 +1,5 @@
 .team-container {
-  padding-left: 8.33;
+  padding-left: 9%;
 }
 
 .our-team {
@@ -66,7 +66,7 @@
 
 .our-team .title {
   display: block;
-  font-size: 14px;
+  text-shadow: 0 -1px 4px #000000, 0 -1px 4px #000000, 0 1px 4px #000000, 0 1px 4px #000000, -1px 0 4px #000000, 1px 0 4px #000000, -1px 0 4px #000000, 1px 0 4px #000000, -1px -1px 4px #000000, 1px -1px 4px #000000, -1px 1px 4px #000000, 1px 1px 4px #000000, -1px -1px 4px #000000, 1px -1px 4px #000000, -1px 1px 4px #000000, 1px 1px 4px #000000;
   font-weight: 800;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: white;
@@ -77,6 +77,7 @@
   display: block;
   font-size: 14px;
   font-weight: 800;
+  text-shadow: 0 -1px 4px #000000, 0 -1px 4px #000000, 0 1px 4px #000000, 0 1px 4px #000000, -1px 0 4px #000000, 1px 0 4px #000000, -1px 0 4px #000000, 1px 0 4px #000000, -1px -1px 4px #000000, 1px -1px 4px #000000, -1px 1px 4px #000000, 1px 1px 4px #000000, -1px -1px 4px #000000, 1px -1px 4px #000000, -1px 1px 4px #000000, 1px 1px 4px #000000;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: white;
   text-transform: capitalize;
