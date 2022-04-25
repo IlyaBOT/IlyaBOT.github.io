@@ -5,12 +5,12 @@ subtitle: Garry's Mod Brony game servers
 common-css:
   - "/assets/css/bootstrap-social.css"
   - "/assets/css/beautifuljekyll.css"
-css:
-  - "/assets/css/index.css"
   - "/assets/css/contacts.css"
   - "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.2/css/bootstrap.min.css"
   - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
   - "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"
+css:
+  - "/assets/css/index.css"
 share-img: /assets/img/laspimg.png
 cover-img:
   - "/assets/img/big-imgs/las_pegasus_1.jpg": "Las Pegasus (C&Box: Beta)"
