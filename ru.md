@@ -15,6 +15,7 @@ cover-img:
   - "/assets/img/big-imgs/las_pegasus_5.jpg" : "Las Pegasus (C&Box: Beta)"
   - "/assets/img/big-imgs/las_pegasus_6.jpg" : "Las Pegasus (C&Box: Beta)"
   - "/assets/img/big-imgs/las_pegasus_7.jpg" : "Las Pegasus (C&Box: Beta)"
+  permalink: /ru/
 ---
 
 
