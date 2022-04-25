@@ -73,6 +73,16 @@ paginate_path: "/page:num/"
 #google_analytics: "UA-59820529-1"
 #fb_app_id: "536330676521989"
 
+home-icon:
+  home_icon_desktop_image: "/assets/img/home-icon/home-icon.svg"
+  home_icon_desktop_text: "<strong>Las Pegasus</strong> Team"
+  home_icon_mobile_image: ""
+  home_icon_mobile_text: "<strong>Las Pegasus</strong> Team"
+  home_icon_desktop_height: "36px"
+  home_icon_desktop_width: "36px"
+  home_icon_mobile_height: "36px"
+  home_icon_mobile_width: "36px"
+
 #url-canonical: https://github.com/sponsors/daattali
 
 defaults:
