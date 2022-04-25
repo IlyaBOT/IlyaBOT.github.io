@@ -19,7 +19,7 @@ cover-img:
 
 ### About Las Pegasus project
 
-> <span style="color:white">It's like a description of the project, but now it's empty.</span>
+> <span style="color:white">There should be a description of the project here, but right now it's empty.</span>
 
 ### About server and **`C&Box`** gamemode
 
