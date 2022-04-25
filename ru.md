@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Las Pegasus"
-subtitle: Garry's Mod Brony game servers
+subtitle: Garry's Mod брони сервер
 common-css:
   - "/assets/css/bootstrap-social.css"
   - "/assets/css/beautifuljekyll.css"
@@ -20,7 +20,7 @@ cover-img:
 
 ### About Las Pegasus project
 
-> <span style="color:white">Ну, тут типа о проекте, но пока не написано.</span>
+> <span style="color:white">Тут должно находиться описание проекта, но сейчас тут пусто.</span>
 
 ### About server and **`C&Box`** gamemode
 
