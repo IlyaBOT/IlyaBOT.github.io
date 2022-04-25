@@ -57,14 +57,13 @@ cover-img:
                   aria-hidden="true"
                 ></a>
               </li>
-              <!-- Отключил ссылку на дискорд, т.к. ссылку на пользователя указать нельзя, а дублировать ссылку на сервер незачем. -->
-              <!-- <li>
+              <li>
                 <a
-                  href="https://codepen.io/collection/XdWJOQ/"
+                  href="https://discord.com/users/277443900489334785"
                   class="fab fa-discord"
                   aria-hidden="true"
                 ></a>
-              </li> -->
+              </li>
             </ul>
           </div>
         </div>
@@ -88,14 +87,13 @@ cover-img:
                   aria-hidden="true"
                 ></a>
               </li>
-              <!-- Отключил ссылку на дискорд, т.к. ссылку на пользователя указать нельзя, а дублировать ссылку на сервер незачем. -->
-              <!-- <li>
+              <li>
                 <a
-                  href="https://codepen.io/collection/XdWJOQ/"
+                  href="https://discord.com/users/215527730345803777"
                   class="fab fa-discord"
                   aria-hidden="true"
                 ></a>
-              </li> -->
+              </li>
             </ul>
           </div>
         </div>
@@ -119,14 +117,13 @@ cover-img:
                   aria-hidden="true"
                 ></a>
               </li>
-              <!-- Отключил ссылку на дискорд, т.к. ссылку на пользователя указать нельзя, а дублировать ссылку на сервер незачем. -->
-              <!-- <li>
+              <li>
                 <a
-                  href="https://codepen.io/collection/XdWJOQ/"
+                  href=" https://discord.com/users/532696432428187658"
                   class="fab fa-discord"
                   aria-hidden="true"
                 ></a>
-              </li> -->
+              </li>
             </ul>
           </div>
         </div>
