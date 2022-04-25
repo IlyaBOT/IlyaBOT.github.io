@@ -45,25 +45,26 @@ cover-img:
             <ul class="social">
               <li>
                 <a
-                  href="https://codepen.io/collection/XdWJOQ/"
+                  href="https://vk.com/ilyabot2"
                   class="fab fa-vk"
                   aria-hidden="true"
                 ></a>
               </li>
               <li>
                 <a
-                  href="https://codepen.io/collection/XdWJOQ/"
+                  href="https://steamcommunity.com/id/IlyaBOTIlya/"
                   class="fab fa-steam"
                   aria-hidden="true"
                 ></a>
               </li>
-              <li>
+              <!-- Отключил ссылку на дискорд, т.к. ссылку на пользователя указать нельзя, а дублировать ссылку на сервер незачем. -->
+              <!-- <li>
                 <a
                   href="https://codepen.io/collection/XdWJOQ/"
                   class="fab fa-discord"
                   aria-hidden="true"
                 ></a>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>
@@ -82,18 +83,19 @@ cover-img:
             <ul class="social">
               <li>
                 <a
-                  href="https://codepen.io/collection/XdWJOQ/"
+                  href="https://steamcommunity.com/id/Ponfertato/"
                   class="fab fa-steam"
                   aria-hidden="true"
                 ></a>
               </li>
-              <li>
+              <!-- Отключил ссылку на дискорд, т.к. ссылку на пользователя указать нельзя, а дублировать ссылку на сервер незачем. -->
+              <!-- <li>
                 <a
                   href="https://codepen.io/collection/XdWJOQ/"
                   class="fab fa-discord"
                   aria-hidden="true"
                 ></a>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>
@@ -112,18 +114,19 @@ cover-img:
             <ul class="social">
               <li>
                 <a
-                  href="https://codepen.io/collection/XdWJOQ/"
+                  href="https://steamcommunity.com/id/80990799689769"
                   class="fab fa-steam"
                   aria-hidden="true"
                 ></a>
               </li>
-              <li>
+              <!-- Отключил ссылку на дискорд, т.к. ссылку на пользователя указать нельзя, а дублировать ссылку на сервер незачем. -->
+              <!-- <li>
                 <a
                   href="https://codepen.io/collection/XdWJOQ/"
                   class="fab fa-discord"
                   aria-hidden="true"
                 ></a>
-              </li>
+              </li> -->
             </ul>
           </div>
         </div>
