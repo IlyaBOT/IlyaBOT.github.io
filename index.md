@@ -8,7 +8,6 @@ common-css:
 css:
   - "/assets/css/index.css"
   - "/assets/css/contacts.css"
-  
 share-img: /assets/img/laspimg.png
 cover-img:
   - "/assets/img/big-imgs/las_pegasus_1.jpg": "Las Pegasus (C&Box: Beta)"
