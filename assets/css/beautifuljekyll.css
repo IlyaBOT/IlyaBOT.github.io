@@ -717,8 +717,13 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading {
-    padding: 9.375rem 0;
+    /* padding: 9.375rem 0; */ /* Отключил отступ (уменьшил размер блока с картинками) */
   }
+
+.page-heading2{
+  box-shadow: 0px 0px -85px 0px rgba(0, 0, 0, 50%),  0px 0px 85px 0px rgba(0, 0, 0, 50%);
+}
+
   .intro-header .page-heading h1 {
     font-size: 7rem;
   }
