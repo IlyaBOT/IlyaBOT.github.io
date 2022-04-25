@@ -63,7 +63,7 @@
 .our-team .title {
   display: block;
   font-size: 14px;
-  0 -1px 2px rgb(0 0 0 / 50%), 0 -1px 2px rgb(0 0 0 / 50%), 0 1px 2px rgb(0 0 0 / 50%), 0 1px 2px rgb(0 0 0 / 50%), -1px 0 2px rgb(0 0 0 / 50%), 1px 0 2px rgb(0 0 0 / 50%), -1px 0 2px rgb(0 0 0 / 50%), 1px 0 2px rgb(0 0 0 / 50%), -1px -1px 2px rgb(0 0 0 / 50%), 1px -1px 2px rgb(0 0 0 / 50%), -1px 1px 2px rgb(0 0 0 / 50%), 1px 1px 2px rgb(0 0 0 / 50%), -1px -1px 2px rgb(0 0 0 / 50%), 1px -1px 2px rgb(0 0 0 / 50%), -1px 1px 2px rgb(0 0 0 / 50%), 1px 1px 2px rgb(0 0 0 / 50%)
+  text-shadow: 0 -1px 2px rgb(0 0 0 / 50%), 0 -1px 2px rgb(0 0 0 / 50%), 0 1px 2px rgb(0 0 0 / 50%), 0 1px 2px rgb(0 0 0 / 50%), -1px 0 2px rgb(0 0 0 / 50%), 1px 0 2px rgb(0 0 0 / 50%), -1px 0 2px rgb(0 0 0 / 50%), 1px 0 2px rgb(0 0 0 / 50%), -1px -1px 2px rgb(0 0 0 / 50%), 1px -1px 2px rgb(0 0 0 / 50%), -1px 1px 2px rgb(0 0 0 / 50%), 1px 1px 2px rgb(0 0 0 / 50%), -1px -1px 2px rgb(0 0 0 / 50%), 1px -1px 2px rgb(0 0 0 / 50%), -1px 1px 2px rgb(0 0 0 / 50%), 1px 1px 2px rgb(0 0 0 / 50%)
   font-weight: 800;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: white;
@@ -73,7 +73,7 @@
 .our-team .name {
   display: block;
   font-weight: 800;
-  0 -1px 2px rgb(0 0 0 / 50%), 0 -1px 2px rgb(0 0 0 / 50%), 0 1px 2px rgb(0 0 0 / 50%), 0 1px 2px rgb(0 0 0 / 50%), -1px 0 2px rgb(0 0 0 / 50%), 1px 0 2px rgb(0 0 0 / 50%), -1px 0 2px rgb(0 0 0 / 50%), 1px 0 2px rgb(0 0 0 / 50%), -1px -1px 2px rgb(0 0 0 / 50%), 1px -1px 2px rgb(0 0 0 / 50%), -1px 1px 2px rgb(0 0 0 / 50%), 1px 1px 2px rgb(0 0 0 / 50%), -1px -1px 2px rgb(0 0 0 / 50%), 1px -1px 2px rgb(0 0 0 / 50%), -1px 1px 2px rgb(0 0 0 / 50%), 1px 1px 2px rgb(0 0 0 / 50%)
+  text-shadow: 0 -1px 2px rgb(0 0 0 / 50%), 0 -1px 2px rgb(0 0 0 / 50%), 0 1px 2px rgb(0 0 0 / 50%), 0 1px 2px rgb(0 0 0 / 50%), -1px 0 2px rgb(0 0 0 / 50%), 1px 0 2px rgb(0 0 0 / 50%), -1px 0 2px rgb(0 0 0 / 50%), 1px 0 2px rgb(0 0 0 / 50%), -1px -1px 2px rgb(0 0 0 / 50%), 1px -1px 2px rgb(0 0 0 / 50%), -1px 1px 2px rgb(0 0 0 / 50%), 1px 1px 2px rgb(0 0 0 / 50%), -1px -1px 2px rgb(0 0 0 / 50%), 1px -1px 2px rgb(0 0 0 / 50%), -1px 1px 2px rgb(0 0 0 / 50%), 1px 1px 2px rgb(0 0 0 / 50%)
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   color: white;
   text-transform: capitalize;
