@@ -666,7 +666,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   -1px 1px 2px rgb(0 0 0 / 50%), 1px 1px 2px rgb(0 0 0 / 50%)
 }
 
-.heading2 {
+.intro-header2 {
   background-image: linear-gradient(
     to top,
     rgba(0, 0, 0, 0.7),
