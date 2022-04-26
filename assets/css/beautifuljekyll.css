@@ -666,12 +666,12 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   -1px 1px 2px rgb(0 0 0 / 50%), 1px 1px 2px rgb(0 0 0 / 50%)
 }
 
-.intro-header.big-img .post-heading {
+.heading2 {
   background-image: linear-gradient(
     to top,
-    rgba(0, 0, 0, 0.8),
-    rgba(0, 0, 0, 0) 60%,
-    rgba(0, 0, 0, 0.8) 100%
+    rgba(0, 0, 0, 0.7),
+    rgba(0, 0, 0, 0) 55%,
+    rgba(0, 0, 0, 0.7) 100%
   );
 }
 
