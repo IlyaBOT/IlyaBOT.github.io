@@ -665,6 +665,16 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   -1px -1px 2px rgb(0 0 0 / 50%), 1px -1px 2px rgb(0 0 0 / 50%),
   -1px 1px 2px rgb(0 0 0 / 50%), 1px 1px 2px rgb(0 0 0 / 50%)
 }
+
+.intro-header.big-img .post-heading {
+  background-image: linear-gradient(
+    to top,
+    rgba(0, 0, 0, 0.8),
+    rgba(0, 0, 0, 0) 60%,
+    rgba(0, 0, 0, 0.8) 100%
+  );
+}
+
 .intro-header .page-heading h1 {
   margin-top: 0;
   font-size: 3.125rem;
@@ -721,7 +731,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   }
 
 .page-heading2{
-  box-shadow: 0px 0px -85px 0px rgba(0, 0, 0, 50%),  0px 0px 85px 0px rgba(0, 0, 0, 50%);
+  /* box-shadow: 0px 0px -85px 0px rgba(0, 0, 0, 50%),  0px 0px 85px 0px rgba(0, 0, 0, 50%); */ /* Отключил т.к. не работает */
 }
 
   .intro-header .page-heading h1 {
