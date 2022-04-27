@@ -4,7 +4,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-title: Las Pegasus Team
+title: Las Pegasus #Team # Сократил название сайта на время, пока не пофиксим мобильную версию сайта.
 author: IlyaBOT, Ponfertato, SuperNyanCat
 
 navbar-links:
