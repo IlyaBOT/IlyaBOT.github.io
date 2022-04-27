@@ -4,18 +4,8 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-#title:
+title: Las Pegasus #Team # Сократил название сайта на время, пока не пофиксим мобильную версию сайта.
 author: IlyaBOT, Ponfertato, SuperNyanCat
-
-logo:
-  logo_desktop_image: assets/img/logo/home-icon.svg
-  logo_desktop_text: "Jekyll <strong>Las Pegasus</strong>"
-  logo_mobile_image: assets/img/logo/home-icon.svg
-  logo_mobile_text: ""
-  logo_desktop_height: "36px"
-  logo_desktop_width: "36px"
-  logo_mobile_height: "36px"
-  logo_mobile_width: "36px"
 
 navbar-links:
   PLAY: steam://connect/95.84.136.207:27015
