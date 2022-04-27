@@ -17,7 +17,8 @@ body {
   position: relative;
   background-color: {{ site.page-col | default: "#FFFFFF" }};
   {% if site.page-img %}
-  background-image: url({{ site.page-img | relative_url }});
+  /* background-image: url({{ site.page-img | relative_url }}); */ /* Test */
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0) 55%, rgba(0, 0, 0, 0.7) 100%);
   background-attachment: fixed;
   {% endif %}
   overflow-wrap: break-word;
