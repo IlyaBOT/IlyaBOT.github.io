@@ -36,37 +36,35 @@ cover-img:
 
 @var array 
 
-<div class="container">
+ <div class="container">
       <div class="row">
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="our-team">
-              <div class="picture">
-                <img
-                  class="img-fluid"
-                  src="https://avatars.akamai.steamstatic.com/954063d1ce28246b70f3327096a551adc9f50718_full.jpg"
-                />
-              </div>
-              <div class="team-content">
-                <h3 class="name">Nyan Cat</h3>
-                <h4 class="title">Administrator, System Administrator.</h4>
-              </div>
-              <ul class="social">
-                <li>
-                  <a
-                    href="https://steamcommunity.com/id/80990799689769"
-                    class="fab fa-steam"
-                    aria-hidden="true"
-                  ></a>
-                </li>
-                <li>
-                  <a
-                    href=" https://discord.com/users/532696432428187658"
-                    class="fab fa-discord"
-                    aria-hidden="true"
-                  ></a>
-                </li>
-              </ul>
+            <div class="picture">
+              <img class="img-fluid" src="https://avatars.akamai.steamstatic.com/954063d1ce28246b70f3327096a551adc9f50718_full.jpg" />
             </div>
+            <div class="team-content">
+              <h3 class="name">Nyan Cat</h3>
+              <h4 class="title">Administrator, System Administrator</h4>
+            </div>
+            <ul class="social">
+              <li>
+                <a
+                  href="https://steamcommunity.com/id/80990799689769"
+                  class="fab fa-steam"
+                  aria-hidden="true"
+                ></a>
+              </li>
+              <li>
+                <a
+                  href=" https://discord.com/users/532696432428187658"
+                  class="fab fa-discord"
+                  aria-hidden="true"
+                ></a>
+              </li>
+            </ul>
+          </div>
+        </div>
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
           <div class="our-team">
             <div class="picture">
@@ -78,33 +76,6 @@ cover-img:
             <div class="team-content">
               <h3 class="name">IlyaBOT</h3>
               <h4 class="title">Administrator, Idea, Web Developer.</h4>
-            </div>
-            <ul class="social">
-              <li>
-                <a
-                  href="https://steamcommunity.com/id/Ponfertato/"
-                  class="fab fa-steam"
-                  aria-hidden="true"
-                ></a>
-              </li>
-              <li>
-                <a
-                  href="https://discord.com/users/215527730345803777"
-                  class="fab fa-discord"
-                  aria-hidden="true"
-                ></a>
-              </li>
-            </ul>
-          </div>
-        </div>
-        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
-          <div class="our-team">
-            <div class="picture">
-              <img class="img-fluid" src="https://avatars.akamai.steamstatic.com/838e87b4164e38b3f84ecbcba306f59e873fd27a_full.jpg" />
-            </div>
-            <div class="team-content">
-              <h3 class="name">Ponfertato</h3>
-              <h4 class="title">Administrator, Game Mode Developer.</h4>
             </div>
             <ul class="social">
               <li>
@@ -131,6 +102,35 @@ cover-img:
             </ul>
           </div>
         </div>
+        <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+          <div class="our-team">
+            <div class="picture">
+              <img
+                class="img-fluid"
+                src="https://avatars.akamai.steamstatic.com/954063d1ce28246b70f3327096a551adc9f50718_full.jpg"
+              />
+            </div>
+            <div class="team-content">
+              <h3 class="name">Ponfertato</h3>
+              <h4 class="title">Administrator, Game Mode Developer.</h4>
+            </div>
+            <ul class="social">
+              <li>
+                <a
+                  href="https://steamcommunity.com/id/Ponfertato/"
+                  class="fab fa-steam"
+                  aria-hidden="true"
+                ></a>
+              </li>
+              <li>
+                <a
+                  href="https://discord.com/users/215527730345803777"
+                  class="fab fa-discord"
+                  aria-hidden="true"
+                ></a>
+              </li>
+            </ul>
+          </div>
+        </div>
       </div>
     </div>
-  </div>
