@@ -70,7 +70,7 @@ cover-img:
             <div class="picture">
               <img
                 class="img-fluid"
-                src="https://avatars.akamai.steamstatic.com/9016dda39a34125c0bc64631b8b50583f20c3302_full.jpg"
+                src="https://avatars.akamai.steamstatic.com/838e87b4164e38b3f84ecbcba306f59e873fd27a_full.jpg"
               />
             </div>
             <div class="team-content">
@@ -107,7 +107,7 @@ cover-img:
             <div class="picture">
               <img
                 class="img-fluid"
-                src="https://avatars.akamai.steamstatic.com/954063d1ce28246b70f3327096a551adc9f50718_full.jpg"
+                src="https://avatars.akamai.steamstatic.com/9016dda39a34125c0bc64631b8b50583f20c3302_full.jpg"
               />
             </div>
             <div class="team-content">
