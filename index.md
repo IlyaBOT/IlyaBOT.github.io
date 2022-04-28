@@ -30,7 +30,10 @@ cover-img:
 
 ### Team
 
-<center>
+@var array 'stuff' => ['Nyan Cat - Administrator, System Administrator.',
+        'IlyaBOT - Administrator, Idea, Web Developer.',
+        'Ponfertato - Administrator, Game Mode Developer.',],
+
   <div class="container">
       <div class="row">
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
@@ -129,4 +132,3 @@ cover-img:
         </div>
       </div>
     </div>
-</center>
