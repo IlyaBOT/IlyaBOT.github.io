@@ -1132,3 +1132,7 @@ pre {
   width: 1000px;
   margin: 50px auto 0px;
 }
+
+.motd-menu a{
+  color: #fff;
+}
