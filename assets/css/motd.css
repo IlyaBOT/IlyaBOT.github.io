@@ -1,0 +1,79 @@
+/*** Материал подготовлен сайтом roothelp.ru ***/
+
+#content{
+	width:1000px;
+	margin:50px auto 0px;
+}
+
+/*** Создание простого меню для сайта | HTML+CSS ***/
+
+#nav{
+	font-family: 'Open Sans', arial;
+}
+
+#nav li{
+	float:left; /* все ссылки идут слева на право */
+    position:relative;
+    list-style:none; /* убираем точки */
+    background:#ff3131;
+	width:190px;
+}
+
+#nav a{
+    text-decoration:none;
+    display:block; /* делаем блочным элементов тег "a" */
+    padding:35px 65px;
+    color:#ffffff;
+}
+
+#active a, #nav li:hover > a{
+    background:#b32424;
+}
+
+#nav ul {
+	visibility:hidden; /* скрываем выпадающее меню */
+    padding:0;  
+    position:absolute;
+}
+
+#nav li:hover > ul{
+    visibility:visible; /* показываем выпадающее меню при наведении */
+	position: relative;
+    left: -2px; /* смещаем выпадающее меню слева от размера рамки*/
+}
+
+#nav ul a{
+	padding:18.5px 65px; /* делаем отступы выпадающего меню меньше от основного */
+}
+
+#nav ul li:hover{
+    background:#d92a2a;
+}
+
+#nav li:first-child:hover > ul{
+	left: 0px; /* при наведении на первый элемент чтобы не съежало выпадающее меню */
+}
+
+#nav > li{
+	border-right: 2px solid #d92a2a; /* добавляем рамку к основному меню справа */
+}
+
+#nav > li:last-child{
+	border-right: none; /* убираем рамку справа основного меню */
+}
+
+#nav > li ul li{
+	border-left: 2px solid #d92a2a; /* добавляем рамку к выпадающему меню слева */
+	border-right:2px solid #d92a2a; /* добавляем рамку к выпадающему меню справа */
+}
+
+#nav li:first-child ul li,#nav li:first-child ul{
+	border-left:none; /* убираем рамку у выпадающего меню слева */
+} 
+#nav li:last-child ul li,#nav li:last-child ul{
+	border-right:none; /* убираем рамку у выпадающего меню справа */
+} 
+
+
+
+
