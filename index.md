@@ -30,12 +30,6 @@ cover-img:
 
 ### Team
 
-@var array 'stuff' => ['Nyan Cat - Administrator, System Administrator.',
-        'IlyaBOT - Administrator, Idea, Web Developer.',
-        'Ponfertato - Administrator, Game Mode Developer.',],
-
-@var array 
-
  <div class="container">
       <div class="row">
         <div class="col-12 col-sm-6 col-md-4 col-lg-3">
