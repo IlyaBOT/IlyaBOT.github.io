@@ -1125,3 +1125,8 @@ pre {
     display: inline-block;
   }
 }
+
+/* Custom */
+.motd-menu{
+  background-color: #8461AD;
+}
