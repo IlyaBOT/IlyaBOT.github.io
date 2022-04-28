@@ -136,13 +136,6 @@ img {
   transition: padding .5s ease-in-out;
 }
 
-.menubar{
-  background-color: {{ site.navbar-col | default: "#EAEAEA" }};
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  position: fixed;
-  top: 50px;
-},
-
 .navbar-custom,
 .navbar-custom.top-nav-short,
 .navbar-custom.top-nav-short-permanent {
