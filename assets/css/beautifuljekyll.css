@@ -1139,6 +1139,10 @@ pre {
   text-decoration: none;
 }
 
+#nav ul li:hover{
+  background:#674391;
+}
+
 #active a, #motd-menu li:hover > a{
   background:#674391;
 }
