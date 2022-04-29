@@ -10,15 +10,14 @@ css:
   - "/assets/css/contacts.css"
 share-img: /assets/img/laspimg.png
 cover-img:
-  - "/assets/img/big-imgs/las_pegasus_1.jpg": "Las Pegasus (C&Box: Beta)"
-  - "/assets/img/big-imgs/las_pegasus_2.jpg": "Las Pegasus (C&Box: Beta)"
-  - "/assets/img/big-imgs/las_pegasus_3.jpg": "Las Pegasus (C&Box: Beta)"
-  - "/assets/img/big-imgs/las_pegasus_4.jpg": "Las Pegasus (C&Box: Beta)"
-  - "/assets/img/big-imgs/las_pegasus_5.jpg": "Las Pegasus (C&Box: Beta)"
-  - "/assets/img/big-imgs/las_pegasus_6.jpg": "Las Pegasus (C&Box: Beta)"
-  - "/assets/img/big-imgs/las_pegasus_7.jpg": "Las Pegasus (C&Box: Beta)"
+  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_1.jpg": "Las Pegasus (C&Box: Beta)"
+  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_2.jpg": "Las Pegasus (C&Box: Beta)"
+  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_3.jpg": "Las Pegasus (C&Box: Beta)"
+  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_4.jpg": "Las Pegasus (C&Box: Beta)"
+  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_5.jpg": "Las Pegasus (C&Box: Beta)"
+  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_6.jpg": "Las Pegasus (C&Box: Beta)"
+  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_7.jpg": "Las Pegasus (C&Box: Beta)"
 ---
-
 ### About Las Pegasus project
 
 > <span style="color:white">There should be a description of the project here, but right now it's empty.</span>
