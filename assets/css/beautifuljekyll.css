@@ -1139,6 +1139,6 @@ pre {
   text-decoration: none;
 }
 
-#active a, #nav li:hover > a{
+#active a, #motd-menu li:hover > a{
   background:#674391;
 }
