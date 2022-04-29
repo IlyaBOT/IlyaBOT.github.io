@@ -396,12 +396,6 @@ body.scroll-box-on #scroll-box {
   }
 }
 
-/* Carbon ads */
-div[role=main],
-article[role=main] {
-  position: relative;
-}
-
 #carbonads {
   display: block;
   overflow: hidden;
