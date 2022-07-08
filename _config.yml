@@ -7,6 +7,8 @@ plugins:
 title: Las Pegasus #Team # Сократил название сайта на время, пока не пофиксим мобильную версию сайта.
 author: IlyaBOT, Ponfertato, SuperNyanCat
 
+url: "https://laspegasus.ru/"
+
 navbar-links:
   PLAY: steam://connect/95.84.136.207:27015
   Rules: /rules/
@@ -64,8 +66,8 @@ footer-hover-col: "#8461AD"
 site-css: "/assets/css/custom-styles.css"
 site-js: "/assets/js/custom-script.js"
 
-timezone: "Russia/Moscow"
-permalink: /:year-:month-:day-:title/
+timezone: "Europe/Moscow"
+permalink: "/:year-:month-:day-:title/"
 paginate: 5
 paginate_path: "/page:num/"
 

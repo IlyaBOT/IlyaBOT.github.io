@@ -1,7 +1,7 @@
 ---
 title: "Site opening"
 subtitle: "Hello, Bronies!"
-thumbnail-img: "http://95.84.136.207/assets/img/blog/site-openning/cover.png"
+thumbnail-img: "https://laspegasus.ru/assets/img/blog/site-openning/cover.png"
 comments: true
 ---
 

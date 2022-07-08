@@ -10,14 +10,15 @@ css:
   - "/assets/css/contacts.css"
 share-img: /assets/img/laspimg.png
 cover-img:
-  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_1.jpg": "Las Pegasus (C&Box: Beta)"
-  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_2.jpg": "Las Pegasus (C&Box: Beta)"
-  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_3.jpg": "Las Pegasus (C&Box: Beta)"
-  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_4.jpg": "Las Pegasus (C&Box: Beta)"
-  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_5.jpg": "Las Pegasus (C&Box: Beta)"
-  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_6.jpg": "Las Pegasus (C&Box: Beta)"
-  - "http://95.84.136.207/assets/img/big-imgs/las_pegasus_7.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_1.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_2.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_3.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_4.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_5.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_6.jpg": "Las Pegasus (C&Box: Beta)"
+  - "/assets/img/big-imgs/las_pegasus_7.jpg": "Las Pegasus (C&Box: Beta)"
 ---
+
 ### About Las Pegasus project
 
 > <span style="color:white">There should be a description of the project here, but right now it's empty.</span>
@@ -100,12 +101,12 @@ cover-img:
             <div class="picture">
               <img
                 class="img-fluid"
-                src="https://avatars.akamai.steamstatic.com/9016dda39a34125c0bc64631b8b50583f20c3302_full.jpg"
+                src="https://avatars.akamai.steamstatic.com/ea3186f250a251d864a54169d70f2e6bee7318d0_full.jpg"
               />
             </div>
             <div class="team-content">
               <h3 class="name">Ponfertato</h3>
-              <h4 class="title">Administrator, Game Mode Developer.</h4>
+              <h4 class="title">Administrator, Developer.</h4>
             </div>
             <ul class="social">
               <li>
