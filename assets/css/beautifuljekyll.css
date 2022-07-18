@@ -56,7 +56,8 @@ a:focus {
 }
 blockquote {
   color: #808080;
-  font-style: italic;
+  /* We don't love italic fonts... */
+  /* font-style: italic; */ 
 }
 blockquote p:first-child {
   margin-top: 0;
